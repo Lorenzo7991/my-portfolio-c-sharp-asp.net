@@ -3,8 +3,8 @@
 
 ### **Descrizione**
 Utilizzando questa nuova tecnologia (ASP .NET in C#) che il lavoro mi ha portato a studiare, ho deciso di approfondirne l'utilizzo
-facendo qualche test e "sbattendoci un pò la testa" cercando di mettere su un portfolio personale, dato che non avevo ancora avuto tempo di dedicarmi a
-questo proposito, ma era sicuamente sulla lista delle "cose da fare", ho pensato di unre l'utile al dilettevole.
+facendo qualche test e "sbattendoci un pò la testa" cercando di mettere su un portfolio personale, dato che non ho ancora avuto tempo di dedicarmi a
+questo proposito, ma era sicuamente sulla lista delle "cose da fare", ho pensato di unire l'utile al dilettevole.
 
 
 **Obbiettivo e punti salieti:**
