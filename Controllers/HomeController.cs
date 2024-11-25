@@ -14,11 +14,6 @@ namespace MyPortfolio.Controllers
             return View();
         }
 
-        public ActionResult About()
-        {
-
-            return View();
-        }
 
         public ActionResult MyContacts()
         {
