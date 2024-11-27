@@ -11,7 +11,8 @@ questo proposito, ma era sicuamente sulla lista delle "cose da fare", ho pensato
 
 1. Tecnologia di riferimento(come detto in precedenza): C# e ASP .NET, modello M-V-C.
 2. Creazione e gestione di almeno tre pagine, una Home, una MyProjects ed una ContactMe.
-3. ...Vediamo come procede, perchè conoscendomi, partirò da un semplice sito vetrina di me stesso e finirò a studiare come implementare l'invio di notifiche sul mio telefono, quando qualcuno mette like ad un mio progetto :)
-4. Si parte!
+3. Utilizzo del Modello M-V-C quindi, gestione della relazione tra modelli viste e controllers in ASP.NET.
+4. ...E niente, vediamo come procede, perchè conoscendomi, partirò da un semplice sito vetrina di me stesso e finirò a studiare come implementare l'invio di notifiche sul mio telefono, quando qualcuno mette like ad un progetto :)
+5. Si parte!
    
    
