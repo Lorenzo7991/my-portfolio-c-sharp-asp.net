@@ -1,15 +1,36 @@
-﻿body {
-    font-family: Arial, sans-serif;
-    background-color: #f4f4f4;
+﻿/* Generics*/
+ul {
     margin: 0;
-    padding: 0;
+    list-style: none;
 }
 
-.navbar-brand {
-    font-size: 24px;
-    color: #333 !important;
+a {
+    color: inherit;
 }
 
-.navbar {
-    background-color: #007bff;
+
+/* Utils*/
+.nav-container {
+    margin: 0 auto;
+    max-width: 900px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    min-height: 80px;
+}
+
+
+
+/* RESET _Layout.cshtml*/
+#my-navbar{
+    background-color: black;
+    min-height: 80px;
+    color: white;
+}
+
+#navbar-list {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 20px;
 }
